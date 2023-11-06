@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "8TTzdczsVcfOd8vkoHXxFTZhPxRUAKqpg57gzh/YS7w=",
+  "Source": "RoutingExample",
+  "BasePath": "_content/RoutingExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RoutingExample\\wwwroot",
+      "Source": "RoutingExample",
+      "ContentRoot": "D:\\QA\\AspDotNet\\04. Routing\\05. Webroot and UseStaticFile\\RoutingExample\\wwwroot\\",
+      "BasePath": "_content/RoutingExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\QA\\AspDotNet\\04. Routing\\05. Webroot and UseStaticFile\\RoutingExample\\wwwroot\\img.png",
+      "SourceId": "RoutingExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QA\\AspDotNet\\04. Routing\\05. Webroot and UseStaticFile\\RoutingExample\\wwwroot\\",
+      "BasePath": "_content/RoutingExample",
+      "RelativePath": "img.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img.png"
+    }
+  ]
+}
