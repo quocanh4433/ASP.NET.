@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "n3y7WW2ALZ1tSPlRl/lq7Cle7CbFix0wlxw+DCD/hJA=",
+  "Source": "ControllerExample",
+  "BasePath": "_content/ControllerExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerExample\\wwwroot",
+      "Source": "ControllerExample",
+      "ContentRoot": "D:\\QA\\AspDotNet\\05. Controller and IActionResult\\04. FileResult\\ControllerExample\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\QA\\AspDotNet\\05. Controller and IActionResult\\04. FileResult\\ControllerExample\\wwwroot\\img.png",
+      "SourceId": "ControllerExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QA\\AspDotNet\\05. Controller and IActionResult\\04. FileResult\\ControllerExample\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "RelativePath": "img.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img.png"
+    },
+    {
+      "Identity": "D:\\QA\\AspDotNet\\05. Controller and IActionResult\\04. FileResult\\ControllerExample\\wwwroot\\sample.pdf",
+      "SourceId": "ControllerExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QA\\AspDotNet\\05. Controller and IActionResult\\04. FileResult\\ControllerExample\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "RelativePath": "sample.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sample.pdf"
+    }
+  ]
+}

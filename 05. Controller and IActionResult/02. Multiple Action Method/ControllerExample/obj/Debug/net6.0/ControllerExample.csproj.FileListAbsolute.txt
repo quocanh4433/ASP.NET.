@@ -1,0 +1,50 @@
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\bin\Debug\net6.0\ControllerExample.exe
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\bin\Debug\net6.0\ControllerExample.deps.json
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\bin\Debug\net6.0\ControllerExample.runtimeconfig.json
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\bin\Debug\net6.0\ControllerExample.dll
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\bin\Debug\net6.0\ControllerExample.pdb
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\ControllerExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\ControllerExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\ControllerExample.AssemblyInfo.cs
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\ControllerExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\ControllerExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\staticwebassets\msbuild.ControllerExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\staticwebassets\msbuild.build.ControllerExample.props
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ControllerExample.props
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ControllerExample.props
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\scopedcss\bundle\ControllerExample.styles.css
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\ControllerExample.dll
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\refint\ControllerExample.dll
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\ControllerExample.pdb
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\ControllerExample.genruntimeconfig.cache
+D:\QA\AspDotNet\05. Controller and IActionResult\ControllerExample\ControllerExample\obj\Debug\net6.0\ref\ControllerExample.dll
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\bin\Debug\net6.0\ControllerExample.exe
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\bin\Debug\net6.0\ControllerExample.deps.json
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\bin\Debug\net6.0\ControllerExample.runtimeconfig.json
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\bin\Debug\net6.0\ControllerExample.dll
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\bin\Debug\net6.0\ControllerExample.pdb
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\ControllerExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\ControllerExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\ControllerExample.AssemblyInfo.cs
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\ControllerExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\ControllerExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\staticwebassets\msbuild.ControllerExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\staticwebassets\msbuild.build.ControllerExample.props
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ControllerExample.props
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ControllerExample.props
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\scopedcss\bundle\ControllerExample.styles.css
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\ControllerExample.dll
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\refint\ControllerExample.dll
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\ControllerExample.pdb
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\ControllerExample.genruntimeconfig.cache
+D:\QA\AspDotNet\05. Controller and IActionResult\02. Multiple Action Method\ControllerExample\obj\Debug\net6.0\ref\ControllerExample.dll
