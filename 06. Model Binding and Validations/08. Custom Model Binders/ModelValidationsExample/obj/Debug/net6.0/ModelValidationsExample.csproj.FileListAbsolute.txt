@@ -1,0 +1,125 @@
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.exe
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.deps.json
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.runtimeconfig.json
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.AssemblyInfo.cs
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.ModelValidationsExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.build.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\scopedcss\bundle\ModelValidationsExample.styles.css
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\refint\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.genruntimeconfig.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\ModelValidationsExample\ModelValidationsExample\obj\Debug\net6.0\ref\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.exe
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.deps.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.runtimeconfig.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.AssemblyInfo.cs
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.ModelValidationsExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.build.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\scopedcss\bundle\ModelValidationsExample.styles.css
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\refint\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.genruntimeconfig.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State\ModelValidationsExample\obj\Debug\net6.0\ref\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.AssemblyInfo.cs
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\refint\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.exe
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.deps.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.runtimeconfig.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.ModelValidationsExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.build.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\scopedcss\bundle\ModelValidationsExample.styles.css
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.genruntimeconfig.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\05. Model State and Custom Validations\ModelValidationsExample\obj\Debug\net6.0\ref\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.exe
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.deps.json
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.runtimeconfig.json
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.AssemblyInfo.cs
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.ModelValidationsExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.build.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\scopedcss\bundle\ModelValidationsExample.styles.css
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\refint\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.genruntimeconfig.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\06. IValidatableObject\ModelValidationsExample\obj\Debug\net6.0\ref\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.exe
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.deps.json
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.runtimeconfig.json
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\bin\Debug\net6.0\ModelValidationsExample.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.AssemblyInfo.cs
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.ModelValidationsExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.build.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModelValidationsExample.props
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\scopedcss\bundle\ModelValidationsExample.styles.css
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\refint\ModelValidationsExample.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\ModelValidationsExample.genruntimeconfig.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\08. Custom Model Binders\ModelValidationsExample\obj\Debug\net6.0\ref\ModelValidationsExample.dll

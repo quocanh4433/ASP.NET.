@@ -1,0 +1,50 @@
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\bin\Debug\net6.0\ModelBindingAndValidations.exe
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\bin\Debug\net6.0\ModelBindingAndValidations.deps.json
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\bin\Debug\net6.0\ModelBindingAndValidations.runtimeconfig.json
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\bin\Debug\net6.0\ModelBindingAndValidations.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\bin\Debug\net6.0\ModelBindingAndValidations.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.AssemblyInfo.cs
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets\msbuild.ModelBindingAndValidations.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets\msbuild.build.ModelBindingAndValidations.props
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModelBindingAndValidations.props
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModelBindingAndValidations.props
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\scopedcss\bundle\ModelBindingAndValidations.styles.css
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\refint\ModelBindingAndValidations.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.genruntimeconfig.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\Query String and Route Data\ModelBindingAndValidations\obj\Debug\net6.0\ref\ModelBindingAndValidations.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\bin\Debug\net6.0\ModelBindingAndValidations.exe
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\bin\Debug\net6.0\ModelBindingAndValidations.deps.json
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\bin\Debug\net6.0\ModelBindingAndValidations.runtimeconfig.json
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\bin\Debug\net6.0\ModelBindingAndValidations.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\bin\Debug\net6.0\ModelBindingAndValidations.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.AssemblyInfo.cs
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets\msbuild.ModelBindingAndValidations.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets\msbuild.build.ModelBindingAndValidations.props
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModelBindingAndValidations.props
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModelBindingAndValidations.props
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\scopedcss\bundle\ModelBindingAndValidations.styles.css
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\refint\ModelBindingAndValidations.dll
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.pdb
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\ModelBindingAndValidations.genruntimeconfig.cache
+D:\QA\AspDotNet\06. Model Binding and Validations\03. form-urlencode and form-data\ModelBindingAndValidations\obj\Debug\net6.0\ref\ModelBindingAndValidations.dll
