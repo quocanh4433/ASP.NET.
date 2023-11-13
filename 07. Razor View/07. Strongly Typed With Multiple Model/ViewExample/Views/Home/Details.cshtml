@@ -1,0 +1,46 @@
+﻿@using ViewExample.Models;
+
+@*
+-- Cach 1
+@model ViewExample.Models.Person;
+*@
+
+
+@*
+-- Cach 2
+*@
+@using ViewExample.Models;
+@model Person;
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Person Details</title>
+    <meta charset="utf-8" />
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="page-content">
+        <h1>Person Detail</h1>
+        <h3 class="text-center">@Model.Name</h3>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Gender</th>
+                    <th>Date of Birth</th>
+                </tr>
+            </thead>
+                       <tbody>
+                <tr>
+                    <td>@Model.Name</td>
+                    <td>@Model.PersonGender</td>
+                    <td>@Model.DateOfBirth</td>
+                </tr>
+            </tbody>
+        </table>
+        <a href="/home">Back to person</a>
+    </div>
+</body>
+</html>

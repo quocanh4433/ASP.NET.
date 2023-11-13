@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "rHSq7AZjm+Iea3SwZMVxlGm9xesfv0CzcWne0DmTI6s=",
+  "Source": "ViewExample",
+  "BasePath": "_content/ViewExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewExample\\wwwroot",
+      "Source": "ViewExample",
+      "ContentRoot": "D:\\QA\\AspDotNet\\07. Razor View\\ViewExample\\ViewExample\\wwwroot\\",
+      "BasePath": "_content/ViewExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

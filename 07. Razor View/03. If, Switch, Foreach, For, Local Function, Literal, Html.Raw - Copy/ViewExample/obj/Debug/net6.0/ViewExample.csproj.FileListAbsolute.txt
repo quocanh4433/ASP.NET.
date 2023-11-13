@@ -1,0 +1,84 @@
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\bin\Debug\net6.0\ViewExample.staticwebassets.runtime.json
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\bin\Debug\net6.0\ViewExample.exe
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\bin\Debug\net6.0\ViewExample.deps.json
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\bin\Debug\net6.0\ViewExample.runtimeconfig.json
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\bin\Debug\net6.0\ViewExample.dll
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\bin\Debug\net6.0\ViewExample.pdb
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\ViewExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\ViewExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\ViewExample.AssemblyInfo.cs
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\ViewExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\ViewExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\ViewExample.RazorAssemblyInfo.cache
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\ViewExample.RazorAssemblyInfo.cs
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.ViewExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.build.ViewExample.props
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ViewExample.props
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ViewExample.props
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\scopedcss\bundle\ViewExample.styles.css
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\ViewExample.dll
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\refint\ViewExample.dll
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\ViewExample.pdb
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\ViewExample.genruntimeconfig.cache
+D:\QA\AspDotNet\07. Razor View\ViewExample\ViewExample\obj\Debug\net6.0\ref\ViewExample.dll
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\bin\Debug\net6.0\ViewExample.staticwebassets.runtime.json
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\bin\Debug\net6.0\ViewExample.exe
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\bin\Debug\net6.0\ViewExample.deps.json
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\bin\Debug\net6.0\ViewExample.runtimeconfig.json
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\bin\Debug\net6.0\ViewExample.dll
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\bin\Debug\net6.0\ViewExample.pdb
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\ViewExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\ViewExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\ViewExample.AssemblyInfo.cs
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\ViewExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\ViewExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\ViewExample.RazorAssemblyInfo.cache
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\ViewExample.RazorAssemblyInfo.cs
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.ViewExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.build.ViewExample.props
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ViewExample.props
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ViewExample.props
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\scopedcss\bundle\ViewExample.styles.css
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\ViewExample.dll
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\refint\ViewExample.dll
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\ViewExample.pdb
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\ViewExample.genruntimeconfig.cache
+D:\QA\AspDotNet\07. Razor View\02. Code Block and Expressions\ViewExample\obj\Debug\net6.0\ref\ViewExample.dll
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\ViewExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\ViewExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\ViewExample.AssemblyInfo.cs
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\ViewExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\ViewExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\ViewExample.RazorAssemblyInfo.cache
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\ViewExample.RazorAssemblyInfo.cs
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\ViewExample.dll
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\refint\ViewExample.dll
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\ViewExample.pdb
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\bin\Debug\net6.0\ViewExample.staticwebassets.runtime.json
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\bin\Debug\net6.0\ViewExample.exe
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\bin\Debug\net6.0\ViewExample.deps.json
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\bin\Debug\net6.0\ViewExample.runtimeconfig.json
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\bin\Debug\net6.0\ViewExample.dll
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\bin\Debug\net6.0\ViewExample.pdb
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.ViewExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.build.ViewExample.props
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ViewExample.props
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ViewExample.props
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\scopedcss\bundle\ViewExample.styles.css
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\ViewExample.genruntimeconfig.cache
+D:\QA\AspDotNet\07. Razor View\03. If, Switch, Foreach, for\ViewExample\obj\Debug\net6.0\ref\ViewExample.dll

@@ -1,0 +1,23 @@
+﻿@using ViewExample.Models;
+
+@{
+    string apptitle = "Asp.net Course";
+    Person person = new Person() {Name = "Peter", DateOfBirth = Convert.ToDateTime("2005-06-17")};
+}
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>@apptitle</title>
+        <meta charset="utf-8" />
+    </head>
+    <body >
+    <h1> WELLCOME ASP.NET COURSE</h1>
+    <h2>Hello @person.Name</h2>
+    @{
+        double age = Math.Round((DateTime.Now - person.DateOfBirth).TotalDays / 365.25);
+    }
+    <h2>@age years old</h2>
+    </body>
+</html>

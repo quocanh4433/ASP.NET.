@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "MIoc6xgS4p9bq59Wd0681sQEsfelfiB7WUTepkbP3ok=",
+  "Source": "ViewExample",
+  "BasePath": "_content/ViewExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewExample\\wwwroot",
+      "Source": "ViewExample",
+      "ContentRoot": "D:\\QA\\AspDotNet\\07. Razor View\\08. _ViewImports and SharedViews\\ViewExample\\wwwroot\\",
+      "BasePath": "_content/ViewExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\QA\\AspDotNet\\07. Razor View\\08. _ViewImports and SharedViews\\ViewExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "ViewExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QA\\AspDotNet\\07. Razor View\\08. _ViewImports and SharedViews\\ViewExample\\wwwroot\\",
+      "BasePath": "_content/ViewExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

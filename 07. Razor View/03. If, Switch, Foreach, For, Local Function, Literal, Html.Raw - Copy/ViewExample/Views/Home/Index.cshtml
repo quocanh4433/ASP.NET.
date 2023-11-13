@@ -1,0 +1,160 @@
+﻿@using ViewExample.Models;
+
+@{
+    string apptitle = "Asp.net Course";
+    Person person = new Person()
+            {
+                Name = "Peter",
+                DateOfBirth = Convert.ToDateTime("2004-06-17"),
+                PersonGender = Gender.Male
+            };
+
+    List<Person> people = new List<Person>()
+    {
+        new Person() {Name = "John Carter", DateOfBirth = DateTime.Parse("2005-04-15"), PersonGender = Gender.Male},
+        new Person() {Name = "Natasha", DateOfBirth = DateTime.Parse("1996-07-23"), PersonGender = Gender.Female},
+        new Person() {Name = "John Carter", DateOfBirth = DateTime.Parse("1999-02-28"), PersonGender = Gender.Other}
+    };
+}
+
+@{
+    // local function
+    double? GetAge(DateTime? dateOfBirth)
+    {
+        if (dateOfBirth is not null)
+        {
+            return Math.Round(
+                (DateTime.Now - dateOfBirth.Value).TotalDays / 365.25
+            );
+        }
+        return null;
+    }
+}
+
+@functions {
+    // method
+    double? GetAge(DateTime? dateOfBirth)
+    {
+        if (dateOfBirth is not null)
+        {
+            return Math.Round(
+                (DateTime.Now - dateOfBirth.Value).TotalDays / 365.25
+            );
+        }
+        return null;
+    }
+}
+
+@{
+    string alertMessage = $"<script>alert(`{people.Count} people found`)</script>";
+}
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@apptitle</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    @Html.Raw(alertMessage)
+    <h1> WELLCOME ASP.NET COURSE</h1>
+    <h2>Hello @person.Name</h2>
+
+
+
+    ------------- IF -------------
+    @if (person.DateOfBirth.HasValue)
+    {
+        double age = Math.Round((DateTime.Now - person.DateOfBirth).Value.TotalDays / 365.25);
+        <h2>@age years old</h2>
+    }
+    else
+    {
+        <h2>Date of birth is Unknown</h2>
+    }
+
+
+
+    ------------- SWITCH -------------
+    @switch (person.PersonGender)
+    {
+        case Gender.Male:
+            <p>November 19 is International Men's Day'</p>
+            break;
+        case Gender.Female:
+            <p>March 8 is International Women's Day'</p>
+            break;
+        case Gender.Other:
+            <p>March 13 is International Transgender's Day'</p>
+            break;
+    }
+
+
+    ------------- FOREACH -------------
+    @foreach (Person item in people)
+    {
+        <h4>
+            @item.Name
+            <span>@item.PersonGender</span>
+            @if (item.DateOfBirth == null)
+            {
+                <span>@person.DateOfBirth.Value.ToString("MM/dd/yyyy")</span>
+            }
+            else
+            {
+                <span>Date of birth is Unknown</span>
+            }
+        </h4>
+    }
+
+
+    ------------- FOR -------------
+    @for (int i = 0; i < people.Count; i++)
+    {
+        Person item = people[i];
+        <h4>
+            @item.Name
+            <span>@item.PersonGender</span>
+            @if (item.DateOfBirth == null)
+            {
+                <span>@person.DateOfBirth.Value.ToString("MM/dd/yyyy")</span>
+            }
+            else
+            {
+                <span>Date of birth is Unknown</span>
+            }
+        </h4>
+    }
+
+    ------------- LITERAL -------------
+    @for (int i = 0; i < people.Count; i++)
+    {
+        Person item = people[i];
+
+        @: Hello to
+        @* <span>Hello to</span> *@
+        @* <text>hello to</text> *@
+
+        <h4>
+            @item.Name
+            <span>@item.PersonGender</span>
+            @if (item.DateOfBirth == null)
+            {
+                <span>@person.DateOfBirth.Value.ToString("MM/dd/yyyy")</span>
+            }
+            else
+            {
+                <span>Date of birth is Unknown</span>
+            }
+        </h4>
+    }
+
+    ------------- LOCAL FUNCTION -------------
+    <h2>Hello @person.Name</h2>
+    <h2>@GetAge(person.DateOfBirth) years old</h2>
+
+</body>
+</html>
