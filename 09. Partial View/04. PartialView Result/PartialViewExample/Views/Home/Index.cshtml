@@ -1,0 +1,11 @@
+﻿<h1>Home</h1>
+<button class="btn btn-primary mb-4" id="button-load">Get programming languages</button>
+<div id="show-programming-languages"></div>
+
+<script>
+    document.querySelector("#button-load").addEventListener("click", async () => {
+        let response = await fetch("programming-languages", {method: "POST"})
+        let languages = await response.text()
+        document.querySelector("#show-programming-languages").innerHTML = languages
+    })
+</script>

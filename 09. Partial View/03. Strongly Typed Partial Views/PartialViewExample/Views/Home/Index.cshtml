@@ -1,0 +1,11 @@
+﻿<h1>Home</h1>
+
+<h4>01. Partial View With Model</h4>
+@{
+    ListModel listModel = new ListModel()
+            {
+                Title = "Cities from Model",
+                ListItem = new List<string>() { "Vung Tau", "Khanh Hoa", "Binh Thuan" }
+            };
+}
+<partial name="_ListPartialView" model="listModel"></partial>

@@ -1,0 +1,32 @@
+﻿<h1>Home</h1>
+
+<h4>01. Partial View</h4>
+<partial name="_ListPartialView"></partial>
+
+
+
+<h4>01.1. Partial View Updated</h4>
+@{
+    ViewBag.Title = "Cities Updated at View";
+    ViewBag.ListItem = new List<string>() { "Sai Gon", "Can Tho", "Vinh Long" };
+}
+<partial name="_ListPartialView"></partial>
+
+<h4>01.2. Partial View Updated by Object</h4>
+@{
+    var myViewBag = new ViewDataDictionary(ViewData);
+    myViewBag["Title"] = "Cities Updated by Object";
+    myViewBag["ListItem"] = new List<string>() { "Tra Vinh", "Long An", "Ben Tre" };
+}
+<partial name="_ListPartialView" view-data="myViewBag"></partial>
+
+
+<h4>02. Partial View Async</h4>
+@await Html.PartialAsync("_ListPartialView")
+
+
+<h4>03. Render Partial View Async</h4>
+<p>Perfomrance is better</p>
+@{
+    await Html.RenderPartialAsync("_ListPartialView");
+}

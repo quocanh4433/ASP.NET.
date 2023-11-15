@@ -1,0 +1,112 @@
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\bin\Debug\net6.0\PartialViewExample.staticwebassets.runtime.json
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\bin\Debug\net6.0\PartialViewExample.exe
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\bin\Debug\net6.0\PartialViewExample.deps.json
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\bin\Debug\net6.0\PartialViewExample.runtimeconfig.json
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\bin\Debug\net6.0\PartialViewExample.dll
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\bin\Debug\net6.0\PartialViewExample.pdb
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\PartialViewExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\PartialViewExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\PartialViewExample.AssemblyInfo.cs
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\PartialViewExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\PartialViewExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\PartialViewExample.RazorAssemblyInfo.cache
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\PartialViewExample.RazorAssemblyInfo.cs
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.PartialViewExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.build.PartialViewExample.props
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PartialViewExample.props
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PartialViewExample.props
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\scopedcss\bundle\PartialViewExample.styles.css
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\PartialViewExample.dll
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\refint\PartialViewExample.dll
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\PartialViewExample.pdb
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\PartialViewExample.genruntimeconfig.cache
+D:\QA\AspDotNet\08. Layout Views\PartialViewExample\PartialViewExample\obj\Debug\net6.0\ref\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\bin\Debug\net6.0\PartialViewExample.staticwebassets.runtime.json
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\bin\Debug\net6.0\PartialViewExample.exe
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\bin\Debug\net6.0\PartialViewExample.deps.json
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\bin\Debug\net6.0\PartialViewExample.runtimeconfig.json
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\bin\Debug\net6.0\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\bin\Debug\net6.0\PartialViewExample.pdb
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\PartialViewExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\PartialViewExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\PartialViewExample.AssemblyInfo.cs
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\PartialViewExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\PartialViewExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\PartialViewExample.RazorAssemblyInfo.cache
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\PartialViewExample.RazorAssemblyInfo.cs
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.PartialViewExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.build.PartialViewExample.props
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PartialViewExample.props
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PartialViewExample.props
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\scopedcss\bundle\PartialViewExample.styles.css
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\refint\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\PartialViewExample.pdb
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\PartialViewExample.genruntimeconfig.cache
+D:\QA\AspDotNet\09. Partial View\02. PartialView with ViewData\PartialViewExample\obj\Debug\net6.0\ref\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\bin\Debug\net6.0\PartialViewExample.staticwebassets.runtime.json
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\bin\Debug\net6.0\PartialViewExample.exe
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\bin\Debug\net6.0\PartialViewExample.deps.json
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\bin\Debug\net6.0\PartialViewExample.runtimeconfig.json
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\bin\Debug\net6.0\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\bin\Debug\net6.0\PartialViewExample.pdb
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\PartialViewExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\PartialViewExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\PartialViewExample.AssemblyInfo.cs
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\PartialViewExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\PartialViewExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\PartialViewExample.RazorAssemblyInfo.cache
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\PartialViewExample.RazorAssemblyInfo.cs
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.PartialViewExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.build.PartialViewExample.props
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PartialViewExample.props
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PartialViewExample.props
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\scopedcss\bundle\PartialViewExample.styles.css
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\refint\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\PartialViewExample.pdb
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\PartialViewExample.genruntimeconfig.cache
+D:\QA\AspDotNet\09. Partial View\03. Strongly Typed Partial Views\PartialViewExample\obj\Debug\net6.0\ref\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\bin\Debug\net6.0\appsettings.Development.json
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\bin\Debug\net6.0\appsettings.json
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\bin\Debug\net6.0\PartialViewExample.staticwebassets.runtime.json
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\bin\Debug\net6.0\PartialViewExample.exe
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\bin\Debug\net6.0\PartialViewExample.deps.json
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\bin\Debug\net6.0\PartialViewExample.runtimeconfig.json
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\bin\Debug\net6.0\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\bin\Debug\net6.0\PartialViewExample.pdb
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\PartialViewExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\PartialViewExample.AssemblyInfoInputs.cache
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\PartialViewExample.AssemblyInfo.cs
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\PartialViewExample.csproj.CoreCompileInputs.cache
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\PartialViewExample.MvcApplicationPartsAssemblyInfo.cache
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\PartialViewExample.RazorAssemblyInfo.cache
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\PartialViewExample.RazorAssemblyInfo.cs
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.PartialViewExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.build.PartialViewExample.props
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PartialViewExample.props
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PartialViewExample.props
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\scopedcss\bundle\PartialViewExample.styles.css
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\refint\PartialViewExample.dll
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\PartialViewExample.pdb
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\PartialViewExample.genruntimeconfig.cache
+D:\QA\AspDotNet\09. Partial View\04. PartialView Result\PartialViewExample\obj\Debug\net6.0\ref\PartialViewExample.dll

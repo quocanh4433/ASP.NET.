@@ -1,0 +1,12 @@
+﻿<div class="list-group mb-4">
+     @*  @{
+        ViewBag.Title = "Updated";
+    } *@
+    <a href="#" class="list-group-item list-group-item-action active">
+        @ViewBag.Title
+    </a>
+    @foreach (var item in ViewBag.ListItem)
+    {
+        <a href="#" class="list-group-item list-group-item-action">@item</a>
+    }
+</div>

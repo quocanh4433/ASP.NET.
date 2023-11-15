@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "1deZ6LEUf89oBr961piuXShm7Hpl61mnDwMe4yH1lmI=",
+  "Source": "PartialViewExample",
+  "BasePath": "_content/PartialViewExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PartialViewExample\\wwwroot",
+      "Source": "PartialViewExample",
+      "ContentRoot": "D:\\QA\\AspDotNet\\09. Partial View\\02. PartialView with ViewData\\PartialViewExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\QA\\AspDotNet\\09. Partial View\\02. PartialView with ViewData\\PartialViewExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "PartialViewExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QA\\AspDotNet\\09. Partial View\\02. PartialView with ViewData\\PartialViewExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

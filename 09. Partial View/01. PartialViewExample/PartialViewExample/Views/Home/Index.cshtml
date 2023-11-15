@@ -1,0 +1,16 @@
+﻿<h1>Home</h1>
+
+<h4>01. Partial View</h4>
+<partial name="_ListPartialView"></partial>
+<partial name="_ListPartialView"></partial>
+
+
+<h4>02. Partial View Async</h4>
+@await Html.PartialAsync("_ListPartialView")
+
+
+<h4>03. Render Partial View Async</h4>
+<p>Perfomrance is better</p>
+@{
+    await Html.RenderPartialAsync("_ListPartialView");
+}
