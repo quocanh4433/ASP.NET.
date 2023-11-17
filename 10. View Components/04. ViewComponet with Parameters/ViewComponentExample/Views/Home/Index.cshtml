@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Home";
+    PersonGridModel personGridModel = new PersonGridModel()
+    {
+        GridTitle = "Person List",
+        Persons = new List<Person>()
+        {
+            new Person() { PersonName = "John Cena", JobTitle = "Artist" },
+            new Person() { PersonName = "Ronaldo", JobTitle = "Football Player" },
+            new Person() { PersonName = "Taylor Swift", JobTitle = "Singer" },
+
+        }
+    };
+}
+
+
+<h1 class="mb-3">Home</h1>
+
+<h4 class="alert alert-primary">By Razor View</h4>
+@await Component.InvokeAsync("Grid", new { peopleModel = personGridModel })
+
+<h4 class="alert alert-primary">By TagHelper (Khi dùng tagHelper tên parameter theo dạng "people-model". Khác với khi sửa dụng Razoe view "peopleModel")</h4>
+<vc:grid people-model="personGridModel"></vc:grid>
+
+<h4 class="alert alert-primary">By TagHelper (Tên parameter khác với tên-ViewComponent)</h4>
+<vc:people model="personGridModel"></vc:people>

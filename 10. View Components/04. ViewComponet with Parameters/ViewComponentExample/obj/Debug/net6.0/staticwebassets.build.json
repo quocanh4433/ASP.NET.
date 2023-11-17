@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "VMpgie34RvddwMs6STldqYXLb7FuZ0JflFH8tYg8snU=",
+  "Source": "ViewComponentExample",
+  "BasePath": "_content/ViewComponentExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewComponentExample/wwwroot",
+      "Source": "ViewComponentExample",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/wwwroot/",
+      "BasePath": "_content/ViewComponentExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/wwwroot/StyleSheet.css",
+      "SourceId": "ViewComponentExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/wwwroot/",
+      "BasePath": "_content/ViewComponentExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
+    }
+  ]
+}

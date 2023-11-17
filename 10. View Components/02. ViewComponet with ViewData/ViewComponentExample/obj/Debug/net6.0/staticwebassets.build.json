@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+4VSOJyDj5AGmbpDY/tfYu7ZJTgmbQ207kQBFosdEjY=",
+  "Hash": "knmkORwxo5IyFcoOrw+eVI0i3bUR/XPYjXx28pW/Du4=",
   "Source": "ViewComponentExample",
   "BasePath": "_content/ViewComponentExample",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "ViewComponentExample\\wwwroot",
+      "Name": "ViewComponentExample/wwwroot",
       "Source": "ViewComponentExample",
-      "ContentRoot": "D:\\QA\\AspDotNet\\10. View Components\\ViewComponentExample\\ViewComponentExample\\wwwroot\\",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/wwwroot/",
       "BasePath": "_content/ViewComponentExample",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\QA\\AspDotNet\\10. View Components\\ViewComponentExample\\ViewComponentExample\\wwwroot\\StyleSheet.css",
+      "Identity": "/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/wwwroot/StyleSheet.css",
       "SourceId": "ViewComponentExample",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\QA\\AspDotNet\\10. View Components\\ViewComponentExample\\ViewComponentExample\\wwwroot\\",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/wwwroot/",
       "BasePath": "_content/ViewComponentExample",
       "RelativePath": "StyleSheet.css",
       "AssetKind": "All",
@@ -31,7 +31,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
     }
   ]
 }

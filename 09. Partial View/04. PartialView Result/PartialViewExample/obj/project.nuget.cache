@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eVVwQDBYStbPKJP+2F8qvBKJFwehwRK4rmLp92az0tMFeS+lqYq83Fsb22EBH0p3jxVDrusvF/mHpKMSxuWrZw==",
+  "dgSpecHash": "NRMqDIkA4nT04o4Av/YT5hrZDynwRjHsQiNO7dRWyk6P41OwKiNFDksam0SYL7BxDngaVGvev1AyEuGltny9+Q==",
   "success": true,
-  "projectFilePath": "D:\\QA\\AspDotNet\\09. Partial View\\04. PartialView Result\\PartialViewExample\\PartialViewExample.csproj",
+  "projectFilePath": "/Users/quocanh/Desktop/AspDotNet/09. Partial View/04. PartialView Result/PartialViewExample/PartialViewExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{16A8A0C8-9304-46DF-87C8-12179AF385D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewComponentExample/Views/Shared/Components/Grid/Default.cshtml">
+    <Files>
+      <File FileName="ViewComponentExample/ViewComponents/GridViewComponent.cs" Line="25" Column="30" />
+      <File FileName="ViewComponentExample/Views/Shared/Components/Grid/Default.cshtml" Line="9" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ViewComponentExample" expanded="True">
+            <Node name="ViewComponentExample">
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="Grid" expanded="True">
+                      <Node name="Default.cshtml" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ViewComponentExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

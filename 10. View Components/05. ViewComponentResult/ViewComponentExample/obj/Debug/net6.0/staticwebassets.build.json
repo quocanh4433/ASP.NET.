@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "MKtD4zKckSxsgcJJkynFOtqEe1Ew9zZQg5X/lGjvsq0=",
+  "Source": "ViewComponentExample",
+  "BasePath": "_content/ViewComponentExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewComponentExample/wwwroot",
+      "Source": "ViewComponentExample",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/wwwroot/",
+      "BasePath": "_content/ViewComponentExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/wwwroot/friend.js",
+      "SourceId": "ViewComponentExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/wwwroot/",
+      "BasePath": "_content/ViewComponentExample",
+      "RelativePath": "friend.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/friend.js"
+    },
+    {
+      "Identity": "/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/wwwroot/StyleSheet.css",
+      "SourceId": "ViewComponentExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/wwwroot/",
+      "BasePath": "_content/ViewComponentExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
+    }
+  ]
+}

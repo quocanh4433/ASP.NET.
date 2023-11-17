@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tltHGmNYUaXLbp6fsvlrmBA87dgVOkiPHqQGtNyACokpl9fs4F5UBK1keHRxbzE+nmcGbG7T0r0sDQ8f6dKC1A==",
+  "dgSpecHash": "DJc61h5Z4PipxJSY5qoJUNs8pkeZgkKWCa3wtixFs5IzejL6RCEZG3X1LmzHUFxPsD7uGFgSWM3tEg2TWeAlig==",
   "success": true,
-  "projectFilePath": "D:\\QA\\AspDotNet\\10. View Components\\ViewComponentExample\\ViewComponentExample\\ViewComponentExample.csproj",
+  "projectFilePath": "/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/ViewComponentExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

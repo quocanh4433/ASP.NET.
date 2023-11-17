@@ -1,0 +1,144 @@
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/bin/Debug/net6.0/appsettings.Development.json
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/bin/Debug/net6.0/appsettings.json
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.staticwebassets.runtime.json
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.exe
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.deps.json
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.runtimeconfig.json
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.dll
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.pdb
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.GeneratedMSBuildEditorConfig.editorconfig
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.AssemblyInfoInputs.cache
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.AssemblyInfo.cs
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.csproj.CoreCompileInputs.cache
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.MvcApplicationPartsAssemblyInfo.cache
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.RazorAssemblyInfo.cache
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.RazorAssemblyInfo.cs
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.ViewComponentExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.build.ViewComponentExample.props
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ViewComponentExample.props
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ViewComponentExample.props
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/staticwebassets.pack.json
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/staticwebassets.build.json
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/staticwebassets.development.json
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/scopedcss/bundle/ViewComponentExample.styles.css
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.dll
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/refint/ViewComponentExample.dll
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.pdb
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.genruntimeconfig.cache
+D:/QA/AspDotNet/10. View Components/ViewComponentExample/ViewComponentExample/obj/Debug/net6.0/ref/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.RazorAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.RazorAssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/refint/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.pdb
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/bin/Debug/net6.0/appsettings.Development.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/bin/Debug/net6.0/appsettings.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.staticwebassets.runtime.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.deps.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.runtimeconfig.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.pdb
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.ViewComponentExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.build.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/scopedcss/bundle/ViewComponentExample.styles.css
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.genruntimeconfig.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/02. ViewComponet with ViewData/ViewComponentExample/obj/Debug/net6.0/ref/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/bin/Debug/net6.0/appsettings.Development.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/bin/Debug/net6.0/appsettings.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.staticwebassets.runtime.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.deps.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.runtimeconfig.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.pdb
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.RazorAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.RazorAssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.ViewComponentExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.build.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/scopedcss/bundle/ViewComponentExample.styles.css
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/refint/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.pdb
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.genruntimeconfig.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/03. ViewComponet with Model/ViewComponentExample/obj/Debug/net6.0/ref/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/bin/Debug/net6.0/appsettings.Development.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/bin/Debug/net6.0/appsettings.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.staticwebassets.runtime.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.deps.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.runtimeconfig.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.pdb
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.RazorAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.RazorAssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.ViewComponentExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.build.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/scopedcss/bundle/ViewComponentExample.styles.css
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/refint/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.pdb
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.genruntimeconfig.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/04. ViewComponet with Parameters/ViewComponentExample/obj/Debug/net6.0/ref/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/bin/Debug/net6.0/appsettings.Development.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/bin/Debug/net6.0/appsettings.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.staticwebassets.runtime.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.deps.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.runtimeconfig.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/bin/Debug/net6.0/ViewComponentExample.pdb
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.RazorAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.RazorAssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.ViewComponentExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.build.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ViewComponentExample.props
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/scopedcss/bundle/ViewComponentExample.styles.css
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/refint/ViewComponentExample.dll
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.pdb
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ViewComponentExample.genruntimeconfig.cache
+/Users/quocanh/Desktop/AspDotNet/10. View Components/05. ViewComponentResult/ViewComponentExample/obj/Debug/net6.0/ref/ViewComponentExample.dll
