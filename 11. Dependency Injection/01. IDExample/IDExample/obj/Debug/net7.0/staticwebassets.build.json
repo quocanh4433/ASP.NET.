@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "+Ae2v4+PQz1/BEQWLaQ+x2M/w78jyjOEi5LpgMtP5oM=",
+  "Source": "IDExample",
+  "BasePath": "_content/IDExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IDExample/wwwroot",
+      "Source": "IDExample",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/11. Dependency Injection/01. IDExample/IDExample/wwwroot/",
+      "BasePath": "_content/IDExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/quocanh/Desktop/AspDotNet/11. Dependency Injection/01. IDExample/IDExample/wwwroot/StyleSheet.css",
+      "SourceId": "IDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/11. Dependency Injection/01. IDExample/IDExample/wwwroot/",
+      "BasePath": "_content/IDExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
+    }
+  ]
+}

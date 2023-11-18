@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mVISfFVo1HNYRq5MfWyvOcpHrjMHrREazhkfHSJ3a+ZQ+fHnRRkzS2c6cRX8ydOL7Qs8KS0EkyNI6WPSkGQbog==",
+  "success": true,
+  "projectFilePath": "/Users/quocanh/Desktop/AspDotNet/11. Dependency Injection/02. Denpendency Inversion Principle/IDExample/IDExample.csproj",
+  "expectedPackageFiles": [
+    "/Users/quocanh/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/quocanh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

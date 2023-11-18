@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{BF6E3CE1-5358-4874-BDDE-66462F8F7A48}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IDExample/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="IDExample/Program.cs" Line="5" Column="22" />
+      <File FileName="Services/Class1.cs" Line="11" Column="18" />
+      <File FileName="IDExample/Controllers/HomeController.cs" Line="26" Column="31" />
+      <File FileName="IDExample/Views/Shared/_Layout.cshtml" Line="22" Column="14" />
+      <File FileName="IDExample/Views/Home/Index.cshtml" Line="14" Column="6" />
+      <File FileName="IDExample/Views/_ViewStart.cshtml" Line="3" Column="2" />
+      <File FileName="IDExample/wwwroot/StyleSheet.css" Line="1" Column="1" />
+      <File FileName="../../10. View Components/05. ViewComponentResult/ViewComponentExample/Views/Shared/_Layout.cshtml" Line="6" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IDExample" expanded="True">
+            <Node name="IDExample">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.IDExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

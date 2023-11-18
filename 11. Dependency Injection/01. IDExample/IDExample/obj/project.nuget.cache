@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "agF5eQBaPPLFrYpaoDiBihVptPmSMPX5C11a26LwRcA9F99OMHuROgWgvpx30f7TnE12sKqmUGnmRIj7i/WpOQ==",
+  "success": true,
+  "projectFilePath": "/Users/quocanh/Desktop/AspDotNet/11. Dependency Injection/01. IDExample/IDExample/IDExample.csproj",
+  "expectedPackageFiles": [
+    "/Users/quocanh/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/quocanh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

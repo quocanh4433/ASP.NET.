@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+@model IEnumerable<string>
+
+<h1>Home</h1>
+<ul class="list-group">
+    <li class="list-group-item active" aria-current="true">CITIES</li>
+    @foreach (var city in Model)
+    {
+        <li class="list-group-item">@city</li>
+    }
+</ul>

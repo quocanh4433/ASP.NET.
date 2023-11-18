@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{BF6E3CE1-5358-4874-BDDE-66462F8F7A48}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IDExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IDExample/Program.cs">
+    <Files>
+      <File FileName="Services/CitiesService.cs" />
+      <File FileName="ServiceContracts/ICititesService.cs" />
+      <File FileName="IDExample/Views/Home/Index.cshtml" />
+      <File FileName="IDExample/Views/Shared/_Layout.cshtml" />
+      <File FileName="IDExample/Views/_ViewStart.cshtml" />
+      <File FileName="IDExample/Controllers/HomeController.cs" />
+      <File FileName="IDExample/Program.cs" Line="9" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IDExample" expanded="True">
+            <Node name="IDExample">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Services" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ServiceContracts FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
