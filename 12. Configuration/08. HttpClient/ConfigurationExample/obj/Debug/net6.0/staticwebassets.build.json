@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "JZF+XkBQSIeilgo/RgpkxTDanpRKtHuGXCTvJd+ZLxI=",
+  "Source": "ConfigurationExample",
+  "BasePath": "_content/ConfigurationExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ConfigurationExample/wwwroot",
+      "Source": "ConfigurationExample",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/12. Configuration/08. HttpClient/ConfigurationExample/wwwroot/",
+      "BasePath": "_content/ConfigurationExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/quocanh/Desktop/AspDotNet/12. Configuration/08. HttpClient/ConfigurationExample/wwwroot/StyleSheet.css",
+      "SourceId": "ConfigurationExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/12. Configuration/08. HttpClient/ConfigurationExample/wwwroot/",
+      "BasePath": "_content/ConfigurationExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
+    }
+  ]
+}

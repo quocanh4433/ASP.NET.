@@ -4,12 +4,29 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConfigurationExample/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="ConfigurationExample/Program.cs" Line="1" Column="1" />
+      <File FileName="ConfigurationExample/WeatherOption.cs" Line="1" Column="1" />
+      <File FileName="ConfigurationExample/ConfigurationExample.csproj" Line="7" Column="19" />
+      <File FileName="ConfigurationExample/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="ConfigurationExample/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="ConfigurationExample/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="ConfigurationExample/appsettings.json" Line="10" Column="34" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConfigurationExample" expanded="True">
-            <Node name="ConfigurationExample" selected="True" />
+          <Node name="ConfigurationExample">
+            <Node name="ConfigurationExample">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
