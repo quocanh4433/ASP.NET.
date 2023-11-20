@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "cKOnM+naSj86Hq2eR/gu3t6/p8K5Ro2Oin7osfdPdn0=",
+  "Source": "CRUDExample",
+  "BasePath": "_content/CRUDExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUDExample/wwwroot",
+      "Source": "CRUDExample",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/wwwroot/",
+      "BasePath": "_content/CRUDExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/wwwroot/StyleSheet.css",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/wwwroot/",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
+    }
+  ]
+}
