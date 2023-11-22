@@ -1,40 +1,48 @@
 ﻿<Properties StartupConfiguration="{01222C23-9A28-479D-8B6C-584F41E9F119}|Default">
-  <MonoDevelop.Ide.ItemProperties.CRUDExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceContracts/DTO/PersonAddRequest.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUDTest/PersonServiceTest.cs">
     <Files>
-      <File FileName="Services/CountriesService.cs" />
-      <File FileName="CRUDTest/CountriesServiceTest.cs" />
-      <File FileName="ServiceContracts/DTO/CountryResponse.cs" />
+      <File FileName="Services/CountriesService.cs" Line="28" Column="1" />
+      <File FileName="CRUDTest/CountriesServiceTest.cs" Line="1" Column="1" />
+      <File FileName="ServiceContracts/DTO/CountryResponse.cs" Line="1" Column="1" />
       <File FileName="ServiceContracts/ICountriesService.cs" />
       <File FileName="Entities/Country.cs" />
-      <File FileName="Entities/Person.cs" />
-      <File FileName="ServiceContracts/DTO/PersonAddRequest.cs" Line="12" Column="29" />
+      <File FileName="Entities/Person.cs" Line="13" Column="22" />
+      <File FileName="ServiceContracts/DTO/PersonAddRequest.cs" Line="23" Column="117" />
+      <File FileName="ServiceContracts/DTO/PersonResponse.cs" Line="43" Column="41" />
+      <File FileName="ServiceContracts/Enum/GenderOptions.cs" Line="5" Column="27" />
+      <File FileName="ServiceContracts/IPersonService.cs" Line="14" Column="1" />
+      <File FileName="Services/PersonService.cs" Line="47" Column="34" />
+      <File FileName="CRUDTest/PersonServiceTest.cs" Line="53" Column="15" />
+      <File FileName="CRUDTest/Usings.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CRUDExample" expanded="True">
-            <Node name="ServiceContracts" expanded="True">
-              <Node name="DTO" expanded="True">
-                <Node name="PersonAddRequest.cs" selected="True" />
-              </Node>
-              <Node name="Enum" expanded="True" />
+            <Node name="CRUDTest">
+              <Node name="PersonServiceTest.cs" selected="True" />
             </Node>
-            <Node name="Services" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="CRUDExample" expanded="True" selected="True" />
+          <Node name="CRUDExample" selected="True">
+            <Node name="CRUDTest">
+              <Node name="CRUDTest">
+                <Node name="PersonServiceTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CRUDExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
