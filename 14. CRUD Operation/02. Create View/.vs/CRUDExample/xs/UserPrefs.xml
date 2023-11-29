@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{01222C23-9A28-479D-8B6C-584F41E9F119}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUDExample/Controllers/PersonsController.cs">
+    <Files>
+      <File FileName="Services/CountriesService.cs" Line="72" Column="1" />
+      <File FileName="CRUDExample/Views/Persons/Index.cshtml" Line="10" Column="49" />
+      <File FileName="CRUDExample/Controllers/PersonsController.cs" Line="64" Column="17" />
+      <File FileName="Services/PersonService.cs" Line="15" Column="1" />
+      <File FileName="ServiceContracts/DTO/PersonAddRequest.cs" Line="29" Column="1" />
+      <File FileName="ServiceContracts/DTO/CountryResponse.cs" Line="28" Column="1" />
+      <File FileName="ServiceContracts/IPersonService.cs" Line="14" Column="24" />
+      <File FileName="CRUDExample/Views/Persons/Create.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUDExample" expanded="True">
+            <Node name="CRUDExample">
+              <Node name="Controllers" expanded="True">
+                <Node name="PersonsController.cs" selected="True" />
+              </Node>
+              <Node name="Views">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="CRUDTest" expanded="True" />
+            <Node name="ServiceContracts" expanded="True">
+              <Node name="DTO" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CRUDExample" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CRUDExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

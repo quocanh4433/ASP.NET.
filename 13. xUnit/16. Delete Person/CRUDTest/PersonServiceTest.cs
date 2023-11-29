@@ -288,7 +288,7 @@ namespace CRUDTest
         [Fact]
         public void GetSortPerson()
         {
-            // Arrange
+            //Arrange
             CountryAddRequest country_request_1 = new CountryAddRequest() { CountryName = "USA" };
             CountryAddRequest country_request_2 = new CountryAddRequest() { CountryName = "India" };
 
@@ -305,39 +305,36 @@ namespace CRUDTest
 
             List<PersonResponse> person_response_list_from_add = new List<PersonResponse>();
 
-            List<PersonResponse> allPerson = _personService.GetAllPersons();
-
             foreach (PersonAddRequest person_request in person_requests)
             {
                 PersonResponse person_response = _personService.AddPerson(person_request);
                 person_response_list_from_add.Add(person_response);
             }
 
-            // Print person response list from add
-            _testOutputHelper.WriteLine("Exception: ");
-            foreach (var person_response_from_add in person_response_list_from_add)
+            //print person_response_list_from_add
+            _testOutputHelper.WriteLine("Expected:");
+            foreach (PersonResponse person_response_from_add in person_response_list_from_add)
             {
-                _testOutputHelper.WriteLine(person_response_from_add.ToString() + "\n");
+                _testOutputHelper.WriteLine(person_response_from_add.ToString());
             }
+            List<PersonResponse> allPersons = _personService.GetAllPersons();
 
-            // Act
-            List<PersonResponse> persons_list_from_sort = _personService.GetSortPersons(allPerson, nameof(Person.PersonName), SortOrderOptions.DESC);
+            //Act
+            List<PersonResponse> persons_list_from_sort = _personService.GetSortPersons(allPersons, nameof(Person.PersonName), SortOrderOptions.DESC);
 
-            // Print person response list from sort
-            _testOutputHelper.WriteLine("Actual: ");
-            foreach (PersonResponse persons_from_sort in persons_list_from_sort)
+            //print persons_list_from_get
+            _testOutputHelper.WriteLine("Actual:");
+            foreach (PersonResponse person_response_from_get in persons_list_from_sort)
             {
-                _testOutputHelper.WriteLine(persons_from_sort.ToString() + "\n");
+                _testOutputHelper.WriteLine(person_response_from_get.ToString());
             }
-
             person_response_list_from_add = person_response_list_from_add.OrderByDescending(temp => temp.PersonName).ToList();
 
-            // Assert
+            //Assert
             for (int i = 0; i < person_response_list_from_add.Count; i++)
             {
                 Assert.Equal(person_response_list_from_add[i], persons_list_from_sort[i]);
             }
-
         }
         #endregion
 
