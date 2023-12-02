@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{01222C23-9A28-479D-8B6C-584F41E9F119}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUDExample/Views/Persons/Index.cshtml">
+    <Files>
+      <File FileName="CRUDExample/Views/Persons/Create.cshtml" Line="129" Column="14" />
+      <File FileName="ServiceContracts/DTO/PersonAddRequest.cs" />
+      <File FileName="CRUDExample/Controllers/PersonsController.cs" Line="117" Column="55" />
+      <File FileName="CRUDExample/Views/Persons/Edit.cshtml" Line="136" Column="2" />
+      <File FileName="CRUDExample/Views/Persons/Index.cshtml" Line="31" Column="1" />
+      <File FileName="CRUDExample/Views/Shared/_GridColumnHeader.cshtml" Line="19" Column="8" />
+      <File FileName="CRUDExample/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUDExample" expanded="True">
+            <Node name="CRUDExample">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views">
+                <Node name="Persons">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CRUDExample" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CRUDExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

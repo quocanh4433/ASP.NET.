@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "jT+Sj1JA6Ik4a2MsKTnI/8iVF206yCVrV7XmcmeiLkw=",
+  "Source": "CRUDExample",
+  "BasePath": "_content/CRUDExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUDExample/wwwroot",
+      "Source": "CRUDExample",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/CRUDExample/wwwroot/",
+      "BasePath": "_content/CRUDExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/CRUDExample/wwwroot/StyleSheet.css",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/CRUDExample/wwwroot/",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/08. Get Person by Person ID/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/09. Get All Person/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/10. TestOutputHelper/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/11. Implementation - Get Filter Person/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/12. Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/13. Implemention - Get Sorted Person/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/14. Update Person/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/15. Implemention - Update Person/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/16. Delete Person/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/01. Getting Started with UI/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/14. CRUD Operation/02. Create View/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/01. Form Tag Helper/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/02. Client Side Validations/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/04. Image Tag Helper/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/quocanh/Desktop/AspDotNet/15.  TagHelper/05. Edit View/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll

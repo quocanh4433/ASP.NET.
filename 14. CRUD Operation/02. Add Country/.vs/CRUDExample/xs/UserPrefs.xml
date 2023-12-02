@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{01222C23-9A28-479D-8B6C-584F41E9F119}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CRUDExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUDTest/CountriesServiceTest.cs">
+    <Files>
+      <File FileName="CRUDTest/CountriesServiceTest.cs" Line="78" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUDExample" expanded="True">
+            <Node name="CRUDExample" expanded="True" />
+            <Node name="CRUDTest">
+              <Node name="CountriesServiceTest.cs" selected="True" />
+            </Node>
+            <Node name="Entities" expanded="True" />
+            <Node name="ServiceContracts" expanded="True">
+              <Node name="DTO" expanded="True" />
+            </Node>
+            <Node name="Services">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CRUDExample">
+            <Node name="CRUDTest">
+              <Node name="CRUDTest">
+                <Node name="CountriesServiceTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

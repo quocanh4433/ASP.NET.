@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{01222C23-9A28-479D-8B6C-584F41E9F119}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CRUDExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUDExample/Views/Persons/Delete.cshtml">
+    <Files>
+      <File FileName="CRUDExample/Views/Persons/Create.cshtml" />
+      <File FileName="ServiceContracts/DTO/PersonAddRequest.cs" />
+      <File FileName="CRUDExample/Controllers/PersonsController.cs" Line="1" Column="1" />
+      <File FileName="CRUDExample/Views/Persons/Edit.cshtml" />
+      <File FileName="CRUDExample/Views/Persons/Index.cshtml" Line="103" Column="113" />
+      <File FileName="CRUDExample/Views/Shared/_GridColumnHeader.cshtml" />
+      <File FileName="CRUDExample/Program.cs" />
+      <File FileName="CRUDExample/Views/Persons/Delete.cshtml" Line="64" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUDExample" expanded="True">
+            <Node name="CRUDExample">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views">
+                <Node name="Persons">
+                  <Node name="Delete.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CRUDExample" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,72 @@
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/bin/Debug/net6.0/Entities.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/obj/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/obj/Debug/net6.0/refint/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/obj/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/Entities/obj/Debug/net6.0/ref/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/bin/Debug/net6.0/Entities.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/obj/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/obj/Debug/net6.0/refint/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/obj/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/Entities/obj/Debug/net6.0/ref/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/bin/Debug/net6.0/Entities.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/obj/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/obj/Debug/net6.0/refint/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/obj/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/Entities/obj/Debug/net6.0/ref/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/bin/Debug/net6.0/Entities.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/obj/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/obj/Debug/net6.0/refint/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/obj/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/Entities/obj/Debug/net6.0/ref/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/bin/Debug/net6.0/Entities.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/obj/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/obj/Debug/net6.0/refint/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/obj/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/Entities/obj/Debug/net6.0/ref/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/bin/Debug/net6.0/Entities.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/bin/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/bin/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/obj/Debug/net6.0/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/obj/Debug/net6.0/refint/Entities.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/obj/Debug/net6.0/Entities.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/Entities/obj/Debug/net6.0/ref/Entities.dll

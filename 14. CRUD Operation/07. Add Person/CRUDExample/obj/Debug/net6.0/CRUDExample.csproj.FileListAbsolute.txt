@@ -1,0 +1,203 @@
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/bin/Debug/net6.0/appsettings.Development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/bin/Debug/net6.0/appsettings.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/bin/Debug/net6.0/CRUDExample.staticwebassets.runtime.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/bin/Debug/net6.0/CRUDExample
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/bin/Debug/net6.0/CRUDExample.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/bin/Debug/net6.0/CRUDExample.runtimeconfig.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/bin/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/bin/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/CRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/CRUDExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.build.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/scopedcss/bundle/CRUDExample.styles.css
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/refint/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/CRUDExample.genruntimeconfig.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/CRUDExample/CRUDExample/obj/Debug/net6.0/ref/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/bin/Debug/net6.0/appsettings.Development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/bin/Debug/net6.0/appsettings.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample.staticwebassets.runtime.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample.runtimeconfig.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.build.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/scopedcss/bundle/CRUDExample.styles.css
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/refint/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.genruntimeconfig.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/02. Add Country/CRUDExample/obj/Debug/net6.0/ref/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/bin/Debug/net6.0/appsettings.Development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/bin/Debug/net6.0/appsettings.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample.staticwebassets.runtime.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample.runtimeconfig.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/bin/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.build.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/scopedcss/bundle/CRUDExample.styles.css
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/refint/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/CRUDExample.genruntimeconfig.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/03. Implementation - Add Country/CRUDExample/obj/Debug/net6.0/ref/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/bin/Debug/net6.0/appsettings.Development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/bin/Debug/net6.0/appsettings.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample.staticwebassets.runtime.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample.runtimeconfig.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.build.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/scopedcss/bundle/CRUDExample.styles.css
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/refint/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.genruntimeconfig.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/04. Get All Countries/CRUDExample/obj/Debug/net6.0/ref/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/bin/Debug/net6.0/appsettings.Development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/bin/Debug/net6.0/appsettings.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample.staticwebassets.runtime.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample.runtimeconfig.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/bin/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.build.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/scopedcss/bundle/CRUDExample.styles.css
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/refint/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/CRUDExample.genruntimeconfig.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/05. Imlementation - Get All Countries/CRUDExample/obj/Debug/net6.0/ref/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/bin/Debug/net6.0/appsettings.Development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/bin/Debug/net6.0/appsettings.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/bin/Debug/net6.0/CRUDExample.staticwebassets.runtime.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/bin/Debug/net6.0/CRUDExample
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/bin/Debug/net6.0/CRUDExample.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/bin/Debug/net6.0/CRUDExample.runtimeconfig.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/bin/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/bin/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/CRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/CRUDExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.build.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/scopedcss/bundle/CRUDExample.styles.css
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/refint/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/CRUDExample.genruntimeconfig.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/06. Get Country by Country ID/CRUDExample/obj/Debug/net6.0/ref/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/bin/Debug/net6.0/appsettings.Development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/bin/Debug/net6.0/appsettings.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/bin/Debug/net6.0/CRUDExample.staticwebassets.runtime.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/bin/Debug/net6.0/CRUDExample
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/bin/Debug/net6.0/CRUDExample.deps.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/bin/Debug/net6.0/CRUDExample.runtimeconfig.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/bin/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/bin/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.AssemblyReference.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/CRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfoInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/CRUDExample.AssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/CRUDExample.csproj.CoreCompileInputs.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/CRUDExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/CRUDExample.RazorAssemblyInfo.cs
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.build.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CRUDExample.props
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/scopedcss/bundle/CRUDExample.styles.css
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/refint/CRUDExample.dll
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/CRUDExample.pdb
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/CRUDExample.genruntimeconfig.cache
+/Users/quocanh/Desktop/AspDotNet/13. xUnit/07. Add Person/CRUDExample/obj/Debug/net6.0/ref/CRUDExample.dll

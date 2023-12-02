@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{01222C23-9A28-479D-8B6C-584F41E9F119}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUDTest/CountriesServiceTest.cs">
+    <Files>
+      <File FileName="Services/CountriesService.cs" Line="41" Column="26" />
+      <File FileName="CRUDTest/CountriesServiceTest.cs" Line="154" Column="132" />
+      <File FileName="ServiceContracts/DTO/CountryResponse.cs" Line="10" Column="31" />
+      <File FileName="ServiceContracts/ICountriesService.cs" Line="1" Column="1" />
+      <File FileName="Entities/Country.cs" Line="7" Column="14" />
+      <File FileName="Entities/Person.cs" Line="1" Column="1" />
+      <File FileName="ServiceContracts/DTO/PersonAddRequest.cs" Line="12" Column="29" />
+      <File FileName="ServiceContracts/IPersonService.cs" Line="27" Column="60" />
+      <File FileName="ServiceContracts/DTO/PersonResponse.cs" Line="1" Column="1" />
+      <File FileName="Services/PersonService.cs" Line="60" Column="47" />
+      <File FileName="CRUDTest/PersonServiceTest.cs" Line="103" Column="69" />
+      <File FileName="ServiceContracts/DTO/CountryAddRequest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUDExample" expanded="True">
+            <Node name="CRUDTest">
+              <Node name="CountriesServiceTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CRUDExample" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CRUDExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
