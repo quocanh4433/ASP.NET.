@@ -1,28 +1,24 @@
 ﻿<Properties StartupConfiguration="{01222C23-9A28-479D-8B6C-584F41E9F119}|Default">
   <MonoDevelop.Ide.ItemProperties.CRUDExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CRUDExample/Program.cs">
     <Files>
-      <File FileName="Entities/Country.cs" Line="12" Column="5" />
-      <File FileName="Entities/Person.cs" Line="29" Column="1" />
-      <File FileName="Entities/PersonDbContext.cs" Line="9" Column="37" />
+      <File FileName="Entities/Country.cs" />
+      <File FileName="Entities/Person.cs" />
+      <File FileName="Entities/PersonDbContext.cs" />
       <File FileName="CRUDExample/Program.cs" Line="15" Column="81" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CRUDExample" expanded="True">
-            <Node name="CRUDExample">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
+            <Node name="CRUDExample" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="Entities">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="Entities" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -33,9 +29,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
